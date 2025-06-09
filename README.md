@@ -51,6 +51,10 @@ Uddeshya-Website/
 
 ## 📸 Screenshots
 
+![image](https://github.com/user-attachments/assets/2020b2dd-ed3f-42f3-a28c-c12a6eb98a18)
+
+![image](https://github.com/user-attachments/assets/62f0cdf1-be9b-4769-904c-ea35ce8e2eba)
+
 
 
 ---
