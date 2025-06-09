@@ -34,16 +34,27 @@ The Uddeshya website is designed to:
 
 Uddeshya-Website/
 ├── index.html # Home Page
+
 ├── about.html # About Uddeshya
+
 ├── events.html # Events and Campaigns
+
 ├── gallery.html # Photo Gallery
+
 ├── contact.html # Contact / Volunteer Form
+
 ├── css/
+
 │ └── style.css # Main stylesheet
+
 ├── js/
+
 │ └── script.js # JavaScript for interactivity
+
 ├── images/
+
 │ └── ... # All media assets
+
 └── README.md
 
 
